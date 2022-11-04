@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea60367e-2ed3-4e28-94ae-fc102a4602b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applications/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/WalletEventChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/events/CountAdded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/events/WalletCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/value/CardNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/value/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/value/CountId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/value/UserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/org/bootcamp/domain/value/WalletId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/AggregateRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/ChangeEventSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/DomainEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/EventChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/Identity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/org/bootcamp/generic/domain/ValueObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H3qEV3oJkU4t798BeslDEFjQO7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.bootcamp.domain" />
+      <recent name="org.bootcamp.generic.domain" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea60367e-2ed3-4e28-94ae-fc102a4602b3" name="Changes" comment="" />
+      <created>1667524004750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667524004750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
